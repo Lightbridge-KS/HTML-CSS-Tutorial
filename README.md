@@ -1,7 +1,9 @@
 # Tutorial: HTML & CSS
 
-My summary repo for HTML and CSS tutorial by Mosh
+My summary repo for HTML and CSS tutorial
 
-**Source:** [HTML Tutorial for Beginners](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=136s)
+### Source 
+
+- **By Mosh:** [HTML Tutorial for Beginners (youtube)](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=136s)
 
 ![octocat](images/octocat.png)
