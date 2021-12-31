@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      video {
+        width: 400px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Videos</h2>
+    <!-- Still -->
+    <h3>Still Screen</h3>
+    <video src="/videos/ocean.mp4"></video>
+    <!-- Player -->
+    <h3>With Player</h3>
+    <p>Add boolean attributes <code>controls</code> for control player</p>
+    <p><strong>NB:</strong> boolean doesn't mean TRUE or FALSE.</p>
+
+    <video controls src="/videos/ocean.mp4">
+      <!-- Fallback text when browser not support. -->
+      Your browser doesn't support videos.
+    </video>
+
+    <!-- Player Autoplay -->
+    <h3>Autoplay</h3>
+    <video controls autoplay src="/videos/ocean.mp4"></video>
+    <p>With Loops</p>
+    <video controls autoplay loop src="/videos/ocean.mp4"></video>
+  </body>
+</html>
