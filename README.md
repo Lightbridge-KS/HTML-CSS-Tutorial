@@ -1,6 +1,6 @@
 # Tutorial: HTML & CSS
 
-My summary repo for HTML and CSS tutorial
+This is a my learning repo for knowledge summary for HTML and CSS.
 
 ### Source 
 
